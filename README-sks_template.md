@@ -116,20 +116,20 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!--- GitHub Status Links -->
 
+[contributors-shield]: https://img.shields.io/github/contributors/ssent1/misc.svg?style=for-the-badge
+[contributors-url]: https://github.com/ssent1/misc/repo/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ssent1/misc.svg?style=for-the-badge
+[forks-url]: https://github.com/ssent1/misc/repo/network/members
+[stars-shield]: https://img.shields.io/github/stars/ssent1/misc.svg?style=for-the-badge
+[stars-url]: https://github.com/ssent1/misc/repo/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ssent1/misc.svg?style=for-the-badge
+[issues-url]: https://github.com/ssent1/misc/repo/issues
+[license-shield]: https://img.shields.io/github/license/ssent1/misc.svg?style=for-the-badge
+[license-url]: https://github.com/ssent1/misc/blob/master/LICENSE
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=2867B2
+[linkedin-url]: https://www.linkedin.com/in/SydSalmon/
+
 ---
 
 tags: \
-updated: _20210106_200153_
-
-[contributors-shield]: https://img.shields.io/github/contributors/ssent1/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/ssent1/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ssent1/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/ssent1/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/ssent1/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/ssent1/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ssent1/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/ssent1/repo/issues
-[license-shield]: https://img.shields.io/github/license/ssent1/repo.svg?style=for-the-badge
-[license-url]: https://github.com/ssent1/repo/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/SydSalmon/
+updated: _20210106_231449_
